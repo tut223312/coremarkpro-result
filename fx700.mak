@@ -1,4 +1,4 @@
-# File: util/make/linux64.mak
+# File: util/make/fx700.mak
 # Optional specific files for specialized run and results extraction
 PLATFORM=fx700
 SHELL=/bin/bash
