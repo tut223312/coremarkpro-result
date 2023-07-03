@@ -1,0 +1,31 @@
+Rose256.bmp data supplied by C array
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+Rose256.bmp data supplied by C array
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+Rose256.bmp data supplied by C array
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+Rose256.bmp data supplied by C array
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+Rose256.bmp data supplied by C array
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+Rose256.bmp data supplied by C array
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+Rose256.bmp data supplied by C array
+>> Data Set                 : Rose256.bmp
+>> Output File              : Rose256.jpg
+-  Info: Starting Run...
+-- Workload:cjpeg-rose7-preset=236760500
+-- cjpeg-rose7-preset:time(ns)=10
+-- cjpeg-rose7-preset:contexts=16
+-- cjpeg-rose7-preset:workers=4
+-- cjpeg-rose7-preset:iterations=10
+-- cjpeg-rose7-preset:time(secs)=    0.01
+-- cjpeg-rose7-preset:secs/workload=   0.001
+-- cjpeg-rose7-preset:workloads/sec=    1000
+-- Done:cjpeg-rose7-preset=236760500

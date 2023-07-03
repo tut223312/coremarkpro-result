@@ -21,7 +21,7 @@ def draw_heatmap(data, row_labels, column_labels, title):
     plt.xlabel('number of workers')
     plt.ylabel('number of cores')
 
-    plot.get_figure().savefig(title + '.png')
+    plot.get_figure().savefig('heatmap/' + title + '.png')
 
 
 def visualize(category: str):
@@ -48,7 +48,10 @@ def visualize(category: str):
 
 
 def main():
-    categories = ['a100', 'apollo70', 'fx700']
+    Path('./heatmap').mkdir(exist_ok=True)
+
+    categories = ['a100_with_gcc', 'apollo70_with_gcc',
+                  'fx700_with_gcc', 'fx700_with_fcc']
 
     for category in categories:
         visualize(category)

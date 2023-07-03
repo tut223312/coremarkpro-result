@@ -1,0 +1,81 @@
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:11 XCMD=-c16 -w16
+236760500         MLT cjpeg-rose7-preset                         1   1     0      0.006          1     166.67    104675     267584		
+#Results for performance runs started at 23183:13:30:11 XCMD=-c16 -w16
+236760500         MLT cjpeg-rose7-preset                         1   1     0      0.055         10     181.82    104675     267584		
+236760500         MLT cjpeg-rose7-preset                         1   1     0      0.055         10     181.82    104675     267584		
+236760500         MLT cjpeg-rose7-preset                         1   1     0      0.055         10     181.82    104675     267584		
+#Median for final result cjpeg-rose7-preset/
+236760500         MLT cjpeg-rose7-preset                         1   1     0      0.055         10     181.82    104675     267584 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:12 XCMD=-c16 -w16
+1050863061        MLT sha-test                                   1   1     0      0.004          1     250.00     75625       2328		
+#Results for performance runs started at 23183:13:30:12 XCMD=-c16 -w16
+1050863061        MLT sha-test                                   1   1     0      0.041         10     243.90     75625       2328		
+1050863061        MLT sha-test                                   1   1     0      0.041         10     243.90     75625       2328		
+1050863061        MLT sha-test                                   1   1     0      0.040         10     250.00     75625       2328		
+#Median for final result sha-test/
+1050863061        MLT sha-test                                   1   1     0      0.041         10     243.90     75625       2328 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:13 XCMD=-c16 -w16
+490760323         MLT core                                       1   1     0      0.426          1       2.35     65067       4464		
+#Results for performance runs started at 23183:13:30:14 XCMD=-c16 -w16
+490760323         MLT core                                       1   1     0      0.427          1       2.34     65067       4464		
+490760323         MLT core                                       1   1     0      0.428          1       2.34     65067       4464		
+490760323         MLT core                                       1   1     0      0.425          1       2.35     65067       4464		
+#Median for final result core/
+490760323         MLT core                                       1   1     0      0.427          1       2.34     65067       4464 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:16 XCMD=-c16 -w16
+549578576         MLT nnet_test                                  1   1     0      0.094          1      10.64     68359      43744		
+#Results for performance runs started at 23183:13:30:16 XCMD=-c16 -w16
+549578576         MLT nnet_test                                  1   1     0      0.896         10      11.16     68359      43744		
+549578576         MLT nnet_test                                  1   1     0      0.899         10      11.12     68359      43744		
+549578576         MLT nnet_test                                  1   1     0      0.896         10      11.16     68359      43744		
+#Median for final result nnet_test/
+549578576         MLT nnet_test                                  1   1     0      0.896         10      11.16     68359      43744 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:19 XCMD=-c16 -w16
+1046644201        MLT linear_alg-mid-100x100-sp                  1   1     0      0.004          1     250.00     70073       4472		
+#Results for performance runs started at 23183:13:30:19 XCMD=-c16 -w16
+1046644201        MLT linear_alg-mid-100x100-sp                  1   1     0      0.169         50     295.86     70073       4472		
+1046644201        MLT linear_alg-mid-100x100-sp                  1   1     0      0.169         50     295.86     70073       4472		
+1046644201        MLT linear_alg-mid-100x100-sp                  1   1     0      0.167         50     299.40     70073       4472		
+#Median for final result linear_alg-mid-100x100-sp/
+1046644201        MLT linear_alg-mid-100x100-sp                  1   1     0      0.169         50     295.86     70073       4472 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:20 XCMD=-c16 -w16
+780641437         MLT parser-125k                                1   1     0      0.018          1      55.56     84059       2304		
+#Results for performance runs started at 23183:13:30:21 XCMD=-c16 -w16
+780641437         MLT parser-125k                                1   1     0      0.021          1      47.62     84059       2304		
+780641437         MLT parser-125k                                1   1     0      0.021          1      47.62     84059       2304		
+780641437         MLT parser-125k                                1   1     0      0.018          1      55.56     84059       2304		
+#Median for final result parser-125k/
+780641437         MLT parser-125k                                1   1     0      0.021          1      47.62     84059       2304 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:21 XCMD=-c16 -w16
+1814569103        MLT loops-all-mid-10k-sp                       1   1     0      0.122          1       8.20     85291       8296		
+#Results for performance runs started at 23183:13:30:22 XCMD=-c16 -w16
+1814569103        MLT loops-all-mid-10k-sp                       1   1     0      5.796         50       8.63     85291       8296		
+1814569103        MLT loops-all-mid-10k-sp                       1   1     0      5.820         50       8.59     85291       8296		
+1814569103        MLT loops-all-mid-10k-sp                       1   1     0      5.815         50       8.60     85291       8296		
+#Median for final result loops-all-mid-10k-sp/
+1814569103        MLT loops-all-mid-10k-sp                       1   1     0      5.815         50       8.60     85291       8296 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:40 XCMD=-c16 -w16
+1862946660        MLT radix2-big-64k                             1   1     0      0.007          1     142.86   1443999       2528		
+#Results for performance runs started at 23183:13:30:40 XCMD=-c16 -w16
+1862946660        MLT radix2-big-64k                             1   1     0      2.088       1000     478.93   1443999       2528		
+1862946660        MLT radix2-big-64k                             1   1     0      2.085       1000     479.62   1443999       2528		
+1862946660        MLT radix2-big-64k                             1   1     0      2.058       1000     485.91   1443999       2528		
+#Median for final result radix2-big-64k/
+1862946660        MLT radix2-big-64k                             1   1     0      2.085       1000     479.62   1443999       2528 median single
+#UID            Suite Name                                     Ctx Wrk Fails       t(s)       Iter     Iter/s  Codesize   Datasize
+#Results for verification run started at 23183:13:30:47 XCMD=-c16 -w16
+946108807         MLT zip-test                                   1   1     0      0.007          1     142.86    129057       2552		
+#Results for performance runs started at 23183:13:30:47 XCMD=-c16 -w16
+946108807         MLT zip-test                                   1   1     0      0.007          1     142.86    129057       2552		
+946108807         MLT zip-test                                   1   1     0      0.007          1     142.86    129057       2552		
+946108807         MLT zip-test                                   1   1     0      0.007          1     142.86    129057       2552		
+#Median for final result zip-test/
+946108807         MLT zip-test                                   1   1     0      0.007          1     142.86    129057       2552 median single

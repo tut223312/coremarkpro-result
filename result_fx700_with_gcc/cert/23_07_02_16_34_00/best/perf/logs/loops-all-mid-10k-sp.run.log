@@ -1,0 +1,10 @@
+-  Info: Starting Run...
+-- Workload:loops-all-mid-10k-sp=1814569103
+-- loops-all-mid-10k-sp:time(ns)=1104
+-- loops-all-mid-10k-sp:contexts=64
+-- loops-all-mid-10k-sp:workers=64
+-- loops-all-mid-10k-sp:iterations=64
+-- loops-all-mid-10k-sp:time(secs)=   1.104
+-- loops-all-mid-10k-sp:secs/workload= 0.01725
+-- loops-all-mid-10k-sp:workloads/sec=  57.971
+-- Done:loops-all-mid-10k-sp=1814569103

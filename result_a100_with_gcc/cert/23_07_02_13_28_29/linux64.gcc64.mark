@@ -1,0 +1,21 @@
+
+WORKLOAD RESULTS TABLE
+
+                                                 MultiCore SingleCore           
+Workload Name                                     (iter/s)   (iter/s)    Scaling
+----------------------------------------------- ---------- ---------- ----------
+cjpeg-rose7-preset                                 2000.00     181.82      11.00
+core                                                 31.19       2.34      13.33
+linear_alg-mid-100x100-sp                          3333.33     297.62      11.20
+loops-all-mid-10k-sp                                105.04       8.64      12.16
+nnet_test                                           149.53      11.12      13.45
+parser-125k                                         571.43      47.62      12.00
+radix2-big-64k                                     6666.67     482.63      13.81
+sha-test                                           2666.67     243.90      10.93
+zip-test                                           1142.86     142.86       8.00
+
+MARK RESULTS TABLE
+
+Mark Name                                        MultiCore SingleCore    Scaling
+----------------------------------------------- ---------- ---------- ----------
+CoreMark-PRO                                      79978.80    6877.01      11.63

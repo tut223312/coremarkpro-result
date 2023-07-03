@@ -1,0 +1,10 @@
+-  Info: Starting Run...
+-- Workload:core=490760323
+-- core:time(ns)=3068
+-- core:contexts=64
+-- core:workers=16
+-- core:iterations=64
+-- core:time(secs)=   3.068
+-- core:secs/workload=0.0479375
+-- core:workloads/sec= 20.8605
+-- Done:core=490760323
